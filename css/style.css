@@ -1,0 +1,31 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+header {
+    background-image: url(../img/wave.svg);
+    background-repeat: no-repeat;
+    text-align: center;
+    background-size: cover;
+    height: 50%;
+    font-size: 2rem;
+    color:white;
+}
+h2{
+    color:teal;
+}
+
+section{
+margin-left:75px;
+margin-right:75px;
+}
+
+.align-right{
+    text-align: right;
+}
+footer{
+    background-color:black;
+    color:white;
+    height:75px;
+    text-align:center;
+}
